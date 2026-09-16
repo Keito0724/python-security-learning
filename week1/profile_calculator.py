@@ -1,3 +1,4 @@
+#Day1
 name = input("名前を入力：")
 age = int(input("年齢:"))
 high = float(input("身長（cm）"))

@@ -1,3 +1,4 @@
+#Day2
 username = input("ユーザー名")
 password = input("パスワード")
 
