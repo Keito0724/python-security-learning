@@ -1,2 +1,2 @@
 print("Hello, Python Security!")
-print("this project is my first python project")
+print("This is my first Python project.")
