@@ -1,0 +1,32 @@
+[
+    {
+        "ip": "192.168.1.10",
+        "username": "alice",
+        "success": true
+    },
+    {
+        "ip": "10.0.0.5",
+        "username": "bob",
+        "success": false
+    },
+    {
+        "ip": "10.0.0.5",
+        "username": "bob",
+        "success": false
+    },
+    {
+        "ip": "192.168.1.20",
+        "username": "admin",
+        "success": false
+    },
+    {
+        "ip": "172.16.0.1",
+        "username": "charlie",
+        "success": true
+    },
+    {
+        "ip": "10.0.0.5",
+        "username": "bob",
+        "success": false
+    }
+]
